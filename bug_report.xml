@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<ok>
+  <first app="Time to doctor">
+    <ID>1</ID>
+    <title>Cant login</title>
+    <step1>open app</step1>
+    <step2>click button log in</step2>
+    <step3>write correct e-mail</step3>
+    <step4>create password</step4>
+    <step5>click button next</step5>
+    <actual result>pop-up window ERROR</actual result>
+    <expected result>pop-up window with text Log in successful</expected result>
+  </first>
+</ok>
