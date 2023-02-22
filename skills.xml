@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<start>
+	<title>software tester course</title>
+	<introduction>about QA</introduction>
+	<point1>1. Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC.</point1>
+	<point2>2. What is a client-server architecture.</point2>
+	<point3>3. HTTP Methods of requests to the server.</point3>
+	<point4>4. HTTP server response codes.</point4>
+	<point5>5. Structures of HTTP requests and responses.</point5>
+	<point6>6. What is JSON, XML. Their structure</point6>
+	<point7>7. API testing via Postman (JS, API autotests).</point7>
+	<point8>8. Removing and reading logs from an external server.</point8>
+	<point9>9. Sniffing http web traffic via Charles and Fiddler.</point9>
+	<point10>10. Dev Tools of web browsers (Google Chrome, FireFox).</point10>
+	<point11>11. VPN. How it works, why you need it, how to use it, tool options</point11>
+	<point12>12. Mobile testing.</point12>
+	<point13>13. Feature iOS, Android, guidelines.</point13>
+	<point14>14. Building iOS applications on XCode.</point14>
+	<point15>15. Building Android applications on Android Studio.</point15>
+	<point16>16. ADB - android device management.</point16>
+	<point17>17. Setting up proxy and vpn on iOS and Android.</point17>
+	<point18>18. Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</point18>
+	<point19>19. Command line  - terminal, Linux - copying, creating, viewing, moving files on servers without a graphical interface</point19>
+	<point20>20. Basics of bash scripting, automation of routine tasks on the server.</point20>
+	<point21>21. Access to remote servers.</point21>
+	<point22>22. SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</point22>
+	<point23>23. Postgres database (installation, configuration and use).</point23>
+	<point24>24. Non-relational database Redis (installation, configuration and use).</point24>
+	<point25>25. Load testing in Jmeter.</point25>
+	<point26>26. Scrum development methodology.</point26>
+	<point27>27.Python. Learning the basics. Creating a client-server application</point27>
+</start>
+
